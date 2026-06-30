@@ -72,3 +72,5 @@ The goal of this dashboard is to:
 👨‍💻 Author
 
 Vishwanath Zore
+
+![Dashboard Preview].(https://github.com/vishwanathzore/transportation-logistics-analytics/blob/main/Executive%20Overview.png).
