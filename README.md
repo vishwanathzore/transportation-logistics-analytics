@@ -73,5 +73,5 @@ The goal of this dashboard is to:
 
 Vishwanath Zore
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot]([dashboard.png](https://github.com/vishwanathzore/transportation-logistics-analytics/blob/main/Executive%20Overview.png))
 
